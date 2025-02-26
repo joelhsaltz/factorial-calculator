@@ -1,6 +1,8 @@
 
 import math
 
+# New branch
+
 # Compute factorials of numbers from 1 to 12
 factorials = {num: math.factorial(num) for num in range(1, 13)}
 
